@@ -1,0 +1,3 @@
+User_Alias   ORACLE = jmachado, panuccio, rcastilla, 169885
+
+ORACLE  ALL = (oracle) NOPASSWD: ALL
